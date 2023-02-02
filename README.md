@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Noibisdev.vercel.app](Noibisdev.vercel.app)
 
-- 📝 I regularly write articles on [Noibisdev.vercel.app](Noibisdev.vercel.app)
+- 📝 I regularly write articles on [https://clericcoder.hashnode.dev/](https://clericcoder.hashnode.dev/)
 
 - 💬 Ask me about **REACTJS,NEXTJS,EXPRESS,NODEJS,MONGODB,JAVASCRIPT**
 
