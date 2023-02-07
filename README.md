@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [NOIBISDEV](https://noibis-dev.cyclic.app/)
 
-- 👨‍💻 All of my projects are available at [Noibisdev.vercel.app](Noibisdev.vercel.app)
+- 👨‍💻 All of my projects are available at [Noibisdev](noibisdev.vercel.app)
 
 - 📝 I regularly write articles on [https://clericcoder.hashnode.dev/](https://clericcoder.hashnode.dev/)
 
