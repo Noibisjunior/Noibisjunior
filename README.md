@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@clericcoder" target="blank"><img src="https://img.shields.io/twitter/follow/@clericcoder?logo=twitter&style=for-the-badge" alt="@clericcoder" /></a> </p>
 
-- 🔭 I’m currently working on [FULLSATACK WEB APPLICATION](NOIBISDEV.VERCEL.APP)
+- 🔭 I’m currently working on [FULLSATACK WEB APPLICATION](https://noibis-dev.cyclic.app/)
 
 - 🌱 I’m currently learning **REACTJS,EXPRESS**
 
-- 👯 I’m looking to collaborate on [NOIBISDEV](NOIBISDEV.VERCEL.APP)
+- 👯 I’m looking to collaborate on [NOIBISDEV](https://noibis-dev.cyclic.app/)
 
 - 👨‍💻 All of my projects are available at [Noibisdev.vercel.app](Noibisdev.vercel.app)
 
