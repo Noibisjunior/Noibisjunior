@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NOIBI ABDULSALAAM</h1>
+<h1 align="center">Hi 👋, I'm  ABDULSALAAM NOIBI</h1>
 <h3 align="center">A passionate frontend developer from NIGERIA .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noibisjunior&label=Profile%20views&color=0e75b6&style=flat" alt="noibisjunior" /> </p>
