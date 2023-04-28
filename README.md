@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  ABDULSALAAM NOIBI</h1>
-<h3 align="center">A passionate frontend developer from NIGERIA .</h3>
+<h3 align="center">A passionate FullStack developer from NIGERIA .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noibisjunior&label=Profile%20views&color=0e75b6&style=flat" alt="noibisjunior" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [NOIBISDEV](https://noibis-dev.cyclic.app/)
 
-- 👨‍💻 All of my projects are available at [Noibisdev](https://noibisdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://super-developer-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://clericcoder.hashnode.dev/](https://clericcoder.hashnode.dev/)
 
