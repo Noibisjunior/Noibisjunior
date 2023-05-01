@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **REACTJS,EXPRESS**
 
-- 👯 I’m looking to collaborate on [NOIBISDEV](https://noibis-dev.cyclic.app/)
+- 👯 I’m looking to collaborate on [NOIBISDEV](https://super-developer-portfolio.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://super-developer-portfolio.vercel.app/)
 
