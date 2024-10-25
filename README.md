@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [Fin-Tech WEB APPLICATION]
 
-- 🌱 I’m currently learning **REACTJS,EXPRESS**
-
-- 👯 I’m looking to collaborate on [NOIBISDEV](https://super-developer-portfolio.vercel.app/)
+- 🌱 I’m currently learning **Python and Node**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://super-developer-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://clericcoder.hashnode.dev/](https://clericcoder.hashnode.dev/)
+- 📝 I regularly write articles on https://dev.to/clericcoder
 
-- 💬 Ask me about **REACTJS,NEXTJS,EXPRESS,NODEJS,MONGODB,JAVASCRIPT**
+- 💬 Ask me about **REACTJS,NEXTJS,EXPRESS, Python NODEJS,MONGODB,JAVASCRIPT**
 
 - 📫 How to reach me **Noibisjunior22@gmail.com**
 
